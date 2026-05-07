@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shiv0087&label=PROFILE+VIEWS&color=1d4ed8&style=flat-square&labelColor=0c1a3a" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Shiv0087?label=FOLLOWERS&style=flat-square&color=1d4ed8&labelColor=0c1a3a" />
+  <img src="https://img.shields.io/github/followers/danielsaatchi?label=FOLLOWERS&style=flat-square&color=1d4ed8&labelColor=0c1a3a" />
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-ALWAYS_ONLINE-22d3ee?style=flat-square&labelColor=0c1a3a" />
   &nbsp;
