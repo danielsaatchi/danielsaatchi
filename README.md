@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/REACT-FFC000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/REACT-0c1a3a?style=flat-square&logo=react&logoColor=FFC000" />
   <img src="https://img.shields.io/badge/NEXT.JS-0c1a3a?style=flat-square&logo=nextdotjs&logoColor=e0f2fe" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-0c1a3a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-0c1a3a?style=flat-square&logo=html5&logoColor=E34F26" />
