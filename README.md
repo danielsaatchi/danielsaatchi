@@ -91,13 +91,11 @@ Here are some ideas to get you started:
 ### `> /devops-and-cloud`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,linux,vercel&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux&theme=dark&perline=8" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-0c1a3a?style=flat-square&logo=amazonaws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/GITHUB_ACTIONS-0c1a3a?style=flat-square&logo=githubactions&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/VERCEL-0c1a3a?style=flat-square&logo=vercel&logoColor=e0f2fe" />
   <img src="https://img.shields.io/badge/GIT-0c1a3a?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/LINUX-0c1a3a?style=flat-square&logo=linux&logoColor=FCC624" />
 </div>
@@ -113,7 +111,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TENSOR_FLOW-0c1a3a?style=flat-square&logo=kalilinux&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/TENSOR_FLOW-0c1a3a?style=flat-square&logo=tensorflow&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/KALI_LINUX-0c1a3a?style=flat-square&logo=kalilinux&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/BASH-0c1a3a?style=flat-square&logo=gnubash&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/WIRESHARK-0c1a3a?style=flat-square&logo=wireshark&logoColor=22D3EE" />
