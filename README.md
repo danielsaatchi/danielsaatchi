@@ -123,6 +123,10 @@ Here are some ideas to get you started:
 
 <br/>
 
+```bash
+  [ MORE TOOLS BEING UNLOCKED... ▓▓▓▓▓▓░░░░ 60% ]
+```
+
 ### `> /security-tools`
 
 <div align="center">
@@ -130,10 +134,6 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-
-```bash
-  [ MORE TOOLS BEING UNLOCKED... ▓▓▓▓▓▓░░░░ 60% ]
-```
 
 <div align="center">
   <img src="https://img.shields.io/badge/KALI_LINUX-0c1a3a?style=flat-square&logo=kalilinux&logoColor=38BDF8" />
