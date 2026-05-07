@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 ### `> /security-tools [ LOADING... ]`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,kali,bash&theme=dark" />
 </div>
 
 <br/>
