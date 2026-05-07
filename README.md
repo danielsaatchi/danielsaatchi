@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 ### `> /devops-and-cloud`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker, git,github,githubactions,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux&theme=dark&perline=8" />
 </div>
 
 <div align="center">
