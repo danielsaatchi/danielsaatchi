@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ### `> /frontend`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,apple&theme=dark&perline=8" />
 </div>
 
 <div align="center">
