@@ -138,8 +138,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OLLAMA-0c1a3a?style=flat-square&logo=ollama&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/CLAUDE-0c1a3a?style=flat-square&logo=claude&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/🦞OpenClaw-0c1a3a?style=flat-square&logo=openclaw&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/COLAB-0c1a3a?style=flat-square&logo=googlecolab&logoColor=22d3ee" />
-
 </div>
 
 <br/>
