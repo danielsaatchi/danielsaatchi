@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 ### `> /artificial-intelligence`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda,ollama,claude&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda,ollama,claude,apple&theme=dark" />
 </div>
 
 <br/>
@@ -120,6 +120,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CLAUDE-0c1a3a?style=flat-square&logo=claude&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/🦞OpenClaw-0c1a3a?style=flat-square&logo=openclaw&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/Telegram🤖-0c1a3a?style=flat-square&logo=telegram&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/AppleCoreML-0c1a3a?style=flat-square&logo=apple&logoColor=22d3ee" />
+
 </div>
 
 <br/>
