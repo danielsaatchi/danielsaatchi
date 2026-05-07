@@ -113,6 +113,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/TENSOR_FLOW-0c1a3a?style=flat-square&logo=kalilinux&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/KALI_LINUX-0c1a3a?style=flat-square&logo=kalilinux&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/BASH-0c1a3a?style=flat-square&logo=gnubash&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/WIRESHARK-0c1a3a?style=flat-square&logo=wireshark&logoColor=22D3EE" />
@@ -124,7 +125,7 @@ Here are some ideas to get you started:
 <br/>
 
 ```bash
-  [ MORE TOOLS BEING UNLOCKED... ▓▓▓▓▓▓░░░░ 60% ]
+  [ AGI LEARNING... ▓▓▓▓▓▓░░░░░░░░ 46.1% ]
 ```
 
 ---
