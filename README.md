@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 <br/>
 
 ```bash
-  [ MORE TOOLS BEING UNLOCKED... ▓▓▓▓▓▓░░░░ 60% ]
+  [ AGI Developments... ▓▓▓▓▓▓░░░░ 46.1% ]
 ```
 
 ### `> /security-tools`
@@ -146,10 +146,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-
-```bash
-  [ MORE TOOLS BEING UNLOCKED... ▓▓▓▓▓▓░░░░ 60% ]
-```
 
 ---
 
