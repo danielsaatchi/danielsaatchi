@@ -134,7 +134,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TENSOR_FLOW-0c1a3a?style=flat-square&logo=tensorflow&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/PYTORCH-0c1a3a?style=flat-square&logo=pytorch&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/PYTHON-0c1a3a?style=flat-square&logo=python&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/MATLAB-0c1a3a?style=flat-square&logo=matlab&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/ANACONDA-0c1a3a?style=flat-square&logo=anaconda&logoColor=FF6633" />
   <img src="https://img.shields.io/badge/NMAP-0c1a3a?style=flat-square&logo=gnome-terminal&logoColor=38BDF8&label=NMAP&color=0c1a3a" />
   <img src="https://img.shields.io/badge/METASPLOIT-0c1a3a?style=flat-square&logo=metasploit&logoColor=22d3ee" />
 </div>
