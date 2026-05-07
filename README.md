@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### `> /security-tools
+### `> /security-tools`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kali,bash&theme=dark" />
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/TENSOR_FLOW-0c1a3a?style=flat-square&logo=tensorflow&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/PYTORCH-0c1a3a?style=flat-square&logo=pytorch&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/WIRESHARK-0c1a3a?style=flat-square&logo=wireshark&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/PANDAS-0c1a3a?style=flat-square&logo=pandask&logoColor=22D3EE" />
   <img src="https://img.shields.io/badge/BURP_SUITE-0c1a3a?style=flat-square&logo=burpsuite&logoColor=FF6633" />
   <img src="https://img.shields.io/badge/NMAP-0c1a3a?style=flat-square&logo=gnome-terminal&logoColor=38BDF8&label=NMAP&color=0c1a3a" />
   <img src="https://img.shields.io/badge/METASPLOIT-0c1a3a?style=flat-square&logo=metasploit&logoColor=22d3ee" />
