@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=%24+whoami+--+SHIV;%3E+System+Explorer+%7C+Code+Breaker;%3E+Ethical+Hacking+%7C+Security+Mindset;%3E+Building+%26+Breaking+%5Bfor+fun%5D;%3E+The+quieter+you+become%2C+the+more+you+can+hear...;%24+_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=%24+whoami+--+SHIV;%3E+System+Explorer+%7C+Code+Breaker;%3E+AI-Architect+Hacking+%7C+Security+Mindset;%3E+Building+%26+Breaking+%5Bfor+fun%5D;%3E+The+quieter+you+become%2C+the+more+you+can+hear...;%24+_" alt="Typing SVG" />
   </a>
 </div>
 
