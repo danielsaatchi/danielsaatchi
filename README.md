@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 
 <br/>
 ```bash
-  [ AGI Unlocking... ▓▓▓▓▓▓░░░░░░░░ 46.1% ]
+  [ MORE TOOLS BEING UNLOCKED... ▓▓▓▓▓▓░░░░ 60% ]
 ```
 
 ---
