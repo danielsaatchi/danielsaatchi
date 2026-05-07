@@ -164,11 +164,11 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/danielsaatchi/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/danielsaatchi/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/danielsaatchi/output/github-contribution-grid-snake.svg">
+    src="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -179,7 +179,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jadeja-shivrajsinh-794263389/" target="_blank">
+<a href="(https://www.linkedin.com/in/daniel-s-451672101/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-SHIV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1a3a" />
 </a>
 &nbsp;&nbsp;
@@ -188,7 +188,7 @@ Here are some ideas to get you started:
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/danielsaatchi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Shiv0087-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1a3a" />
+  <img src="https://img.shields.io/badge/GitHub-danielsaatchi-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1a3a" />
 </a>
 
 </div>
