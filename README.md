@@ -161,7 +161,7 @@ Here are some ideas to get you started:
 ## 📈 `$ git log --all --graph`
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv0087&theme=tokyo-night&hide_border=true&custom_title=ACTIVITY+LOG&area=true&area_color=0c1a3a&color=38BDF8&line=1d4ed8&point=f0c842" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielsaatchi&theme=tokyo-night&hide_border=true&custom_title=ACTIVITY+LOG&area=true&area_color=0c1a3a&color=38BDF8&line=1d4ed8&point=f0c842" />
 </div>
 
 ---
@@ -172,11 +172,11 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/danielsaatchi/danielsaatchi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/danielsaatchi/danielsaatchi/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/Shiv0087/Shiv0087/output/github-contribution-grid-snake.svg">
+    src="https://raw.githubusercontent.com/danielsaatchi/danielsaatchi/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -191,11 +191,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-SHIV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1a3a" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:jadejas.k7777@gmail.com" target="_blank">
+<a href="mailto:d.saatchi@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-jadejas.k7777-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1a3a" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Shiv0087" target="_blank">
+<a href="https://github.com/danielsaatchi" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Shiv0087-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1a3a" />
 </a>
 
