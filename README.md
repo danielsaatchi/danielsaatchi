@@ -70,7 +70,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JAVASCRIPT-0c1a3a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-0c1a3a?style=flat-square&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-0c1a3a?style=flat-square&logo=css3&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/APPLE?style=flat-square&logo=apple&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/SWIFT-0c1a3a?style=flat-square&logo=apple&logoColor=22d3ee" />
+
 </div>
 
 <br/>
