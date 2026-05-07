@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 <br/>
 
 ```bash
-  [ AGI Developments... ▓▓▓▓▓▓░░░░ 46.1% ]
+  [ AGI Developments... ▓▓▓▓▓▓░░░░░░░ 46.1% ]
 ```
 
 ### `> /security-tools`
