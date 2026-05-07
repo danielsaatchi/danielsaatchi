@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 ### `> /artificial-intelligence`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda,ollama,claude,apple&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda,apple&theme=dark" />
 </div>
 
 <br/>
