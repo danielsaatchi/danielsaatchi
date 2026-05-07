@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!-- BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shiv0087&label=PROFILE+VIEWS&color=1d4ed8&style=flat-square&labelColor=0c1a3a" />
+  <img src="https://komarev.com/ghpvc/?username=danielsaatchi&label=PROFILE+VIEWS&color=1d4ed8&style=flat-square&labelColor=0c1a3a" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/danielsaatchi?label=FOLLOWERS&style=flat-square&color=1d4ed8&labelColor=0c1a3a" />
   &nbsp;
