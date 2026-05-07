@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 ### `> /artificial-intelligence [ LOADING... ]`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda,ollama&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda,OLLAMA&theme=dark" />
 </div>
 
 <br/>
