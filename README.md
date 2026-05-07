@@ -81,17 +81,13 @@ Here are some ideas to get you started:
 ### `> /backend-and-database`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,firebase,prisma&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,postgres&theme=dark&perline=8" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/NODE.JS-0c1a3a?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/EXPRESS-0c1a3a?style=flat-square&logo=express&logoColor=e0f2fe" />
   <img src="https://img.shields.io/badge/PYTHON-0c1a3a?style=flat-square&logo=python&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/PRISMA-0c1a3a?style=flat-square&logo=prisma&logoColor=e0f2fe" />
   <img src="https://img.shields.io/badge/POSTGRESQL-0c1a3a?style=flat-square&logo=postgresql&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/MONGODB-0c1a3a?style=flat-square&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/FIREBASE-0c1a3a?style=flat-square&logo=firebase&logoColor=FFCA28" />
 </div>
 
 <br/>
