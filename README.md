@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### `> /artificial-intelligence [ LOADING... ]`
+### `> /artificial-intelligence`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda,ollama,claude&theme=dark" />
