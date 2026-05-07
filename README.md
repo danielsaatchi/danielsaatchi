@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 ## 📊 `$ sudo stats --all`
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Shiv0087&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=38BDF8&title_color=38BDF8&text_color=bae6fd&bg_color=020b18" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=danielsaatchi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=38BDF8&title_color=38BDF8&text_color=bae6fd&bg_color=020b18" />
   <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv0087&theme=tokyonight&hide_border=true&stroke=1d4ed8&ring=38bdf8&fire=f0c842&currStreakLabel=38BDF8&sideLabels=bae6fd&background=020b18&dates=7dd3fc" />
 </div>
 
