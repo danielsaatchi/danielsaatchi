@@ -91,10 +91,11 @@ Here are some ideas to get you started:
 ### `> /devops-and-cloud`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker, git,github,githubactions,linux&theme=dark&perline=8" />
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/DOCKER-0c1a3a?style=flat-square&logo=docker&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/GITHUB_ACTIONS-0c1a3a?style=flat-square&logo=githubactions&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/GIT-0c1a3a?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/LINUX-0c1a3a?style=flat-square&logo=linux&logoColor=FCC624" />
