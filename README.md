@@ -61,19 +61,15 @@ Here are some ideas to get you started:
 ### `> /frontend`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,bootstrap&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark&perline=8" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/REACT-0c1a3a?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/NEXT.JS-0c1a3a?style=flat-square&logo=nextdotjs&logoColor=e0f2fe" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-0c1a3a?style=flat-square&logo=typescript&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-0c1a3a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TAILWIND_CSS-0c1a3a?style=flat-square&logo=tailwindcss&logoColor=22D3EE" />
   <img src="https://img.shields.io/badge/HTML5-0c1a3a?style=flat-square&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-0c1a3a?style=flat-square&logo=css3&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/BOOTSTRAP-0c1a3a?style=flat-square&logo=bootstrap&logoColor=7dd3fc" />
-  <img src="https://img.shields.io/badge/GRAPHQL-0c1a3a?style=flat-square&logo=graphql&logoColor=E10098" />
 </div>
 
 <br/>
