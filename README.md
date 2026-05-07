@@ -196,7 +196,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <b><i>"I'm in"</i></b>
+  <b><i>"Also an Artist! a Painter & Guitarist."</i></b>
 </div>
 
 <br/>
