@@ -135,8 +135,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PYTORCH-0c1a3a?style=flat-square&logo=pytorch&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/PYTHON-0c1a3a?style=flat-square&logo=python&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/ANACONDA-0c1a3a?style=flat-square&logo=anaconda&logoColor=FF6633" />
-  <img src="https://img.shields.io/badge/OLLAMA-0c1a3a?style=flat-square&logo=gnome-terminal&logoColor=38BDF8&label=ollama&color=0c1a3a" />
-  <img src="https://img.shields.io/badge/METASPLOIT-0c1a3a?style=flat-square&logo=metasploit&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/OLLAMA-0c1a3a?style=flat-square&logo=ollama&logoColor=22d3ee" />
 </div>
 
 <br/>
