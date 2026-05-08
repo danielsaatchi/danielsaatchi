@@ -226,5 +226,5 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC000,50:FFC000,100:4659BA&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=sparking&color=0:FFC000,50:FFC000,100:4659BA&height=130&section=footer" />
 
