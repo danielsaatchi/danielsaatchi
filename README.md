@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- OPEN TO COLLABS BADGE -->
 <div align="center">
   <a href="mailto:d.saatchi@gmail.com">
-    <img src="https://img.shields.io/badge/%E2%86%97%20Working%20On-Sofa🛋️-38bdf8?style=for-the-badge&labelColor=0c1a3a&color=FFC000&logoColor=white" />
+    <img src="https://img.shields.io/badge/%E2%86%97%20Working%20On-Sofa🛋️-38bdf8?style=for-the-badge&labelColor=FFC000&color=0c1a3&logoColor=white" />
   </a>
 </div>
 
