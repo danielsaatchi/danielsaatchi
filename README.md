@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 ### `> /computer-aided-design-and-graphics`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=blender,figma,discord,latex&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=blender,figma,discord,latex,apple&theme=dark&perline=8" />
 </div>
 
 <div align="center">
@@ -138,6 +138,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/DISCORD-0c1a3a?style=flat-square&logo=discord&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GNOME-0c1a3a?style=flat-square&logo=gnome&logoColor=F05032" />
   <img src="https://img.shields.io/badge/LATEX-0c1a3a?style=flat-square&logo=latex&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/SWIFT_UI-0c1a3a?style=flat-square&logo=apple&logoColor=22d3ee" />
 
 
 </div>
