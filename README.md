@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,40:0c1a3a,80:1d4ed8,100:020b18&height=200&section=header&text=SHIV&fontSize=90&fontColor=e0f2fe&animation=fadeIn&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,40:0c1a3a,80:1d4ed8,100:020b18&height=200&section=header&text=DANIEL SAATCHI&fontSize=90&fontColor=e0f2fe&animation=fadeIn&fontAlignY=50" />
 
 <br/>
 ## paint("my world")
