@@ -36,9 +36,9 @@ Here are some ideas to get you started:
   &nbsp;
   <img src="https://img.shields.io/github/followers/danielsaatchi?label=FOLLOWERS&style=flat-square&color=1d4ed8&labelColor=0c1a3a" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-SLEEPING_MORE-FFC000?style=flat-square&labelColor=0c1a3a" />
+  <img src="https://img.shields.io/badge/HEALTH-TBI_Injury-FFC000?style=flat-square&labelColor=0c1a3a" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-1d4ed8?style=flat-square&labelColor=0c1a3a" />
+  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE_&_BRAIN_INTERFACE_MACHINES-1d4ed8?style=flat-square&labelColor=0c1a3a" />
 </div>
 
 <br/>
