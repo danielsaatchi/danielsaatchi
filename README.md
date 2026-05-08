@@ -120,6 +120,21 @@ Here are some ideas to get you started:
 
 </div>
 
+### `> /computer-adided-design
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=blender,git,github,githubactions,linux&theme=dark&perline=8" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BLENDER-0c1a3a?style=flat-square&logo=blender&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-0c1a3a?style=flat-square&logo=githubactions&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/GIT-0c1a3a?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/LINUX-0c1a3a?style=flat-square&logo=linux&logoColor=FCC624" />
+</div>
+
+<br/>
+
 <br/>
 
 ```bash
