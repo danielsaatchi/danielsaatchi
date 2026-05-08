@@ -214,7 +214,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/danielsaatchi" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-danielsaatchi-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1a3a" />
 </a>
-
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@ATINNITUS" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-my_metal_band-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1a3a" />
+</a>
 </div>
 
 ---
