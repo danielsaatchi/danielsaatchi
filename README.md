@@ -207,10 +207,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-DS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1a3a" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:d.saatchi@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-DS-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1a3a" />
-</a>
-&nbsp;&nbsp;
 <a href="https://github.com/danielsaatchi" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-danielsaatchi-FFC000?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1a3a" />
 </a>
