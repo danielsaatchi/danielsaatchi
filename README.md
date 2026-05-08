@@ -232,5 +232,5 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC000,50:E7BEB8,100:4659BA&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC000,50:E7BEB8,100:000000&height=130&section=footer" />
 
