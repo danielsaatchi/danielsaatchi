@@ -220,7 +220,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <b><i>"Also an Artist <=> a Painter & Guitarist."</i></b>
+  <b><i>"Also an Artist <=> Painter & Guitarist."</i></b>
 </div>
 
 <br/>
