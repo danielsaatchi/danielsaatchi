@@ -223,7 +223,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/DAATCHI-FASHION_TECH-E7BEB8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0c1a3a" />
 </a>
 </div>
-
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/daatchi.official" target="_blank">
+  <img src="https://img.shields.io/badge/ONSOFA-ai-E7BEB8?style=for-the-badge&logo=website&logoColor=white&labelColor=0c1a3a" />
+</a>
+</div>
 ---
 
 <div align="center">
