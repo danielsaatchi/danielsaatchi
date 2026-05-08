@@ -126,7 +126,7 @@ Here are some ideas to get you started:
   [ AGI Developments... ▓▓▓▓▓▓░░░░░░░ 46.1% ]
 ```
 
-### `> /computer-aided-design-and-graphics'
+### `> /computer-aided-design-and-graphics`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=blender,figma,discord,latex&theme=dark&perline=8" />
