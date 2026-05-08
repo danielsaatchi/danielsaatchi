@@ -120,7 +120,13 @@ Here are some ideas to get you started:
 
 </div>
 
-### `> /CAD-and-Graphics
+<br/>
+
+```bash
+  [ AGI Developments... ▓▓▓▓▓▓░░░░░░░ 46.1% ]
+```
+
+### `> /CAD-and-Graphics'
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=blender,git,github,githubactions,linux&theme=dark&perline=8" />
@@ -135,11 +141,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<br/>
 
-```bash
-  [ AGI Developments... ▓▓▓▓▓▓░░░░░░░ 46.1% ]
-```
 
 ### `> /security-tools`
 
