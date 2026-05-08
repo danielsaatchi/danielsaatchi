@@ -216,7 +216,7 @@ Here are some ideas to get you started:
 </a>
 &nbsp;&nbsp;
 <a href="https://www.youtube.com/@ATINNITUS" target="_blank">
-  <img src="https://img.shields.io/badge/Youtube-my_metal_band-38bdf8?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0c1a3a" />
+  <img src="https://img.shields.io/badge/Youtube-ATINNITUS_metal_band-EA4335?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0c1a3a" />
 </a>
 </div>
 
