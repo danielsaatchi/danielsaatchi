@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 ### `> /computer-aided-design-and-graphics'
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=blender,figma,discord,gnome&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=blender,figma,discord&theme=dark&perline=8" />
 </div>
 
 <div align="center">
