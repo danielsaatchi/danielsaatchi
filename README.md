@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 <!-- ░▒▓ danielsaatchi — GITHUB PROFILE README ▓▒░ -->
 <br/>
 
-<!-- OPEN TO COLLABS BADGE -->
-<div align="center">
-  <a href="mailto:d.saatchi@gmail.com">
-    <img src="https://img.shields.io/badge/%E2%86%97%20OPEN%TO-COLAB-38bdf8?style=for-the-badge&labelColor=0c1a3&color=FFC000&logoColor=white" />
-  </a>
-</div>
 
 <br/>
 
