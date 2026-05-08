@@ -220,7 +220,7 @@ Here are some ideas to get you started:
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/daatchi.official" target="_blank">
-  <img src="https://img.shields.io/badge/DAATCHI-FASHION_TECH-FFC000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0c1a3a" />
+  <img src="https://img.shields.io/badge/DAATCHI-FASHION_TECH-E7BEB8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0c1a3a" />
 </a>
 </div>
 
