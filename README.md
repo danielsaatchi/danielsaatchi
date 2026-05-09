@@ -73,13 +73,15 @@ Here are some ideas to get you started:
 ### `> /backend-and-database`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,postgres&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,apple&theme=dark&perline=8" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/NODE.JS-0c1a3a?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
   <img src="https://img.shields.io/badge/PYTHON-0c1a3a?style=flat-square&logo=python&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/POSTGRESQL-0c1a3a?style=flat-square&logo=postgresql&logoColor=38BDF8" />
+    <img src="https://img.shields.io/badge/ObjectiveC-0c1a3a?style=flat-square&logo=apple&logoColor=38BDF8" />
+
 </div>
 
 <br/>
