@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFC000&center=true&vCenter=true&width=650&height=55&lines=%24+whoami+--+DANIEL+SAATCHI;%3E+CS/AI+Scientist+%7C+Technology+Designer;%3E+Opensource+Advocate+%7C+Sharing+Knowledge;%3E+AI+Architect+%7C+GreyHat+Mindset;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFC000&center=true&vCenter=true&width=650&height=55&lines=%24+whoami+--+DANIEL+SAATCHI;%3E+CS/AI+Scientist+%7C+Technology+Designer;%3E+Opensource+Advocate+%7C+Sharing+Knowledge;%3E+Probing+Systems+%7C+GreyHat+Mindset;" alt="Typing SVG" />
   </a>
 </div>
 
