@@ -185,7 +185,7 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=danielsaatchi&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
-![stars](https://shieldcn.dev/github/stars/vercel/next.js.svg)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielsaatchi)
 
 ---
 
