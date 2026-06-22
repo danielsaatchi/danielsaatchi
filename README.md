@@ -187,6 +187,12 @@ Here are some ideas to get you started:
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielsaatchi)
 
+https://<service>/card/danielsaatchi
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsaatchi)
+
+
+
 ---
 
 ## 📈 `$ git log --all --graph`
