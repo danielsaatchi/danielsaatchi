@@ -185,14 +185,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=danielsaatchi&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielsaatchi)
-
-https://<service>/card/danielsaatchi
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsaatchi)
-
-
-
 ---
 
 ## 📈 `$ git log --all --graph`
